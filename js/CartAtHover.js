@@ -1,4 +1,4 @@
-// di chuột trong giỏ hàng
+// tính giá tiền - Mạnh
 var add_cart = document.getElementById('them-vao-gio')
 var numProduct = 0;
 let regex = /\d+/g;

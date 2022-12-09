@@ -1,4 +1,4 @@
-//bán chạy nhất
+//bán chạy nhất - Bảo
 $('.product-bestseller').slick({
     // dots: true,
     // infinite: true,

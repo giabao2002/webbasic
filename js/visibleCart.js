@@ -1,4 +1,4 @@
-//xem giỏ hàng
+//xem giỏ hàng - Bảo
 let cart = document.querySelector('#header li a[href*="cart.html"]')
 let hoverCart = document.getElementById('cart-hover')
 if ($(window).width() > 1024) {

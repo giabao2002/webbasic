@@ -1,4 +1,4 @@
-//xem hình ảnh giỏ hàng
+//xem hình ảnh giỏ hàng - Mạnh
 viewImageProduct()
 
 function viewImageProduct() {

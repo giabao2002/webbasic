@@ -1,4 +1,4 @@
-//đăng kí
+//đăng nhập - Mạnh
 const btnLogin = document.querySelector('.js-btn-login')
 const loginForm = document.querySelector('.js-login')
 const loginContainer = document.querySelector('.js-login-container')

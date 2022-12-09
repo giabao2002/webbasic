@@ -1,4 +1,4 @@
-//nav đáp ứng 
+//thanh điều hướng - Khang
 let header = document.getElementById('header')
 let mobileMenu = document.getElementById('mobile-menu')
 let headerList = document.getElementById('header-list-id')

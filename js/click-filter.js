@@ -1,4 +1,4 @@
-//chọn bộ lọc
+//chọn bộ lọc cho sản phẩm - Khang
 let btnFilter = document.querySelectorAll('.filter-item')
 let checked = document.querySelectorAll('.tick')
 clickFilter()

@@ -1,4 +1,4 @@
-//Thanh trượt
+//slider - Bảo
 let sliderImage = document.querySelectorAll('.slider-image')
 let arrowLeft = document.querySelector('.previous')
 let arrowRight = document.querySelector('.next')

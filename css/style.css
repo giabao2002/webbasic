@@ -2,12 +2,10 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: Roboto, sans-serif;
 }
 
 body, html {
     background-color: rgba(204, 204, 202, 0.3);
-    /*overflow-y: scroll;*/
     scroll-behavior: smooth;
     font-family: roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -44,8 +42,6 @@ body, html {
 }
 
 #header .header_logo .logo {
-    /*width: 250px;*/
-    /*height: 36px;*/
     max-width: 100%;
     height: auto;
 }
@@ -125,14 +121,8 @@ body, html {
     background-color: rgba(20, 53, 195, 1);
     transform-origin: center;
     transform: translate3d(-50%, -50%, 0) scale3d(0, 0, 0);
-    /*transition: transform 0.45s ease-in-out;*/
 }
 
-/*#header .header_list .header_sub-list:hover {*/
-/*    cursor: pointer;*/
-/*    !*color: #161616;*!*/
-/*    color: #ffffff;*/
-/*}*/
 #header .header_list .header_sub-list:hover::before {
     color: #ffffff;
     transform: translate3d(-50%, -50%, 0) scale3d(15, 15, 15);
@@ -141,10 +131,6 @@ body, html {
 #header .header_list .header_sub-list:hover i {
     color: #ffffff;
 }
-
-/*#header .header_list .header_sub-list:hover a {*/
-/*    color: #ffffff;*/
-/*}*/
 
 #header .header_list .header_sub-list:hover .hover-header {
     color: #ffffff;
@@ -217,7 +203,6 @@ body, html {
     height: 140px;
     display: flex;
     position: absolute;
-    /*background-color: rgba(0,0,0,0.6);*/
     bottom: -70px;
     justify-content: space-around;
 }
@@ -250,7 +235,6 @@ body, html {
 #main #slider .slider-left,
 #main #slider .slider-center,
 #main #slider .slider-right {
-    /*background-color: #cccccc;*/
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -262,9 +246,7 @@ body, html {
 /*Start CSS content*/
 #main #content {
     width: 100%;
-    /*height: 100vh;*/
     margin-top: 88px;
-    /*background-color: darkgray;*/
     margin-bottom: 24px;
     position: relative;
 }
@@ -276,7 +258,6 @@ body, html {
     display: flex;
     align-content: center;
     align-items: center;
-    /*justify-content: center;*/
     flex-wrap: wrap;
 }
 
@@ -294,7 +275,6 @@ body, html {
 #main #content .outstading-brand-main {
     margin: 0 16px;
     height: 100%;
-    /*width: 100%;*/
     border-radius: 10px;
     background-color: #fff;
     flex: 1;

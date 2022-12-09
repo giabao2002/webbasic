@@ -1,6 +1,0 @@
-MÃ LAPTOP, TÊN LAPTOP, HÃNG, GIÁ BÁN, SERIES, MÀU, CPU, GPU, RAM, MÀN HÌNH, Ổ CỨNG, BÀN PHÍM, PIN, KHỐI LƯỢNG
-
-insert into thongtinlaptop values ('QWT-00001', 'Laptop MICROSOFT Surface Pro 7', 'MICROSOFT', '23.290.000 ', 'Surface', N'Bạc', 'Intel Core i3-1005G1', 'Intel Core i3-1005G1s', '4GB', '12.3"', '128GB SSD', 'LED', N'Pin liền', '0.8 kg', '../image/MICROSOFT/MICROSOFT/unnamed.jpg', '../image/MICROSOFT/MICROSOFT/unnamed (1).jpg', '../image/MICROSOFT/MICROSOFT/unnamed (2).jpg', '../image/MICROSOFT/MICROSOFT/unnamed (3).jpg', '../image/MICROSOFT/MICROSOFT/unnamed (4).jpg')
-
-insert into thongtinlaptop values ('QWT-00002', 'Laptop MICROSOFT Surface Pro 7', 'MICROSOFT', '23.290.000 ', 'Surface', N'Bạc', 'Intel Core i3-1005G1', 'Intel Core i3-1005G1s', '4GB', '12.3"', '128GB SSD', 'LED', N'Pin liền', '0.8 kg', '../image/MICROSOFT/MICROSOFT 1/unnamed.jpg', '../image/MICROSOFT/MICROSOFT 1/unnamed (1).jpg', '../image/MICROSOFT/MICROSOFT 1/unnamed (2).jpg', '../image/MICROSOFT/MICROSOFT 1/unnamed (3).jpg', '../image/MICROSOFT/MICROSOFT 1/unnamed (4).jpg')
-
